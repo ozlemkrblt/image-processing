@@ -43,11 +43,11 @@ Under this tab, users can display the histogram chart of an image and equalize t
 ## Transform
 
 Under this tab, users can apply 5 different transform operations from scikit-image library.
-•	Resize
-•	Crop
-•	Scale
-•	Rotate
-•	Swirl
+Resize
+- Crop
+- Scale
+- Rotate
+- Swirl
 
 
 ## Exposure
@@ -59,13 +59,13 @@ In density conversion, Gamma Adjustion, Log Adjusted, Intensity Rescale, Sigmoid
 
 ## Morphology
 Under this tab, users can apply 10 different morphological operations from scikit-image library.
-•	Erosion&Dilation
-•	Opening&Closing
-•	White Tophat&Black Tophat
-•	Skeletonize
-•	Convex Hull
-•	Remove Small Holes
-• Remove Small Objects
+- Erosion&Dilation
+- Opening&Closing
+- White Tophat&Black Tophat
+- Skeletonize
+- Convex Hull
+- Remove Small Holes
+- Remove Small Objects
 
 
 ## Other Team Members 
